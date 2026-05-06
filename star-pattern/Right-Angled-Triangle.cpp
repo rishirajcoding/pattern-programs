@@ -11,7 +11,7 @@ void rightAngleTriangle(int n){
 }
 int main(){
     int N;
-    cout<<"Enter size of the Square(N * N): ";
+    cout<<"Enter size : ";
     cin>>N;
      rightAngleTriangle(N);
     return 0;

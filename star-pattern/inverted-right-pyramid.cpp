@@ -11,7 +11,7 @@ void invertedRightPyramid(int n){
 }
 int main(){
     int N;
-    cout<<"Enter size of the Square(N * N): ";
+    cout<<"Enter size: ";
     cin>>N;
      invertedRightPyramid(N);
     return 0;
